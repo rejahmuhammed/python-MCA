@@ -1,6 +1,0 @@
-n1=int(input("enter num1: "))
-n2=int(input("enter num2: "))
-print("num1 : " , n1)
-print("num2 : " , n2)
-print("num1 : " , n2)
-print("num2 : " , n1)
