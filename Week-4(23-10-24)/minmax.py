@@ -1,0 +1,12 @@
+xy = [2,5,8,4,1,7,9,6]
+print(xy)
+max_value = max(xy)
+print("maximum value",max_value)
+min_value = min(xy)
+print("minimum value",min_value)
+srt=sorted(xy)
+print("sorted",srt)
+xy.reverse()
+print("reverse",xy)
+count_list = len(xy)
+print("count",count_list) 
